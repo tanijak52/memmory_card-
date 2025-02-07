@@ -1,2 +1,2 @@
-# memmory_card-
+# Memmory_card
 project PyQt5
